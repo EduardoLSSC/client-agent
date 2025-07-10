@@ -15,6 +15,20 @@
       "when": 1752060522848,
       "tag": "0001_parched_blue_shield",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752165555999,
+      "tag": "0002_peaceful_hardball",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1752171731389,
+      "tag": "0003_nifty_forgotten_one",
+      "breakpoints": true
     }
   ]
 }
